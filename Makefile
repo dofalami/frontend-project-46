@@ -8,4 +8,4 @@ gendiff:
 	node bin/gendiff.js
 
 lint:
-	npx eslint src/genDiff.js
+	npx eslint .
